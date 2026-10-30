@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SoP_Game: Stackelberg–Potential Framework for Dispatch-Free Multi-UAV Coordination"
+version: 1.0.0
+date-released: 2026-10-30
+authors:
+  - family-names: Chen
+    given-names: Tian
+  - family-names: Zhang
+    given-names: Rui
+  - family-names: Bi
+    given-names: Yanxian
+  - family-names: Xu
+    given-names: Kemi
+  - family-names: Hou
+    given-names: Xiangwang
+  - family-names: Wang
+    given-names: Jingjing
+  - family-names: Chen
+    given-names: "C. L. Philip"
+license: MIT
+repository-code: "https://github.com/tursky124/SoP_Game"
+# doi: 10.5281/zenodo.XXXXXXX   # 拿到 Zenodo DOI 后填这里
+related-identifiers:
+  - relation: "is supplement to"
+    identifier: "https://github.com/tursky124/SoP_Game"
