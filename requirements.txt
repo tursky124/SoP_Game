@@ -1,0 +1,3 @@
+# Runtime dependency of sop_core.py and test_sop_core.py.
+# tools/verify_tables.py uses the standard library only.
+numpy>=1.21
